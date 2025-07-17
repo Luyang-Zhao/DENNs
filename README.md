@@ -1,1 +1,1 @@
-# DENNs-a-PINN-method-for-fracture-mechanics
+# DENNs
