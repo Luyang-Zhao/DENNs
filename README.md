@@ -4,6 +4,7 @@ This repository contains the implementation of Discontinuity-Embedded Neural Net
 The repository includes numerical examples such as Mode I crack, bi-material interface crack, intersecting cracks, and crack propagation.
 
 If you find this project helpful and use them in your own work, please use the following citations:
+```bibtex
 @article{ZHAO2025,
 title = {DENNs: Discontinuity-Embedded Neural Networks for fracture mechanics},
 journal = {Computer Methods in Applied Mechanics and Engineering},
@@ -14,5 +15,6 @@ issn = {0045-7825},
 doi = {https://doi.org/10.1016/j.cma.2025.118184},
 url = {https://www.sciencedirect.com/science/article/pii/S0045782525004566},
 author = {Luyang Zhao and Qian Shao},}
+```
 
 For questions, feel free to contact **Luyang Zhao** at [zhaoluyangwhu@gmail.com](mailto:zhaoluyangwhu@gmail.com).
