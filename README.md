@@ -17,4 +17,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S0045782525004566},
 author = {Luyang Zhao and Qian Shao},}
 ```
 
-For questions, feel free to contact **Luyang Zhao** at [zhaoluyangwhu@gmail.com](mailto:zhaoluyangwhu@gmail.com).
+For questions, feel free to contact **Luyang Zhao** at [lzhao428@uwo.ca](mailto:lzhao428@uwo.ca).
